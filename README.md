@@ -1,4 +1,4 @@
-# Data Visualizations
+# Sample Dashboards
 
 # AdventureWorks
 
