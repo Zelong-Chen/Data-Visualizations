@@ -1,5 +1,3 @@
-# Sample Dashboards
-
 # Power BI
 ## AdventureWorks
 
