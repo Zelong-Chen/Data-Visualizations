@@ -12,4 +12,6 @@
 
 - Web visualization through D3.js that allow users to explore where in the world the top 20 airlines with most routes operate. Steps involves processing data, generating visualizations such as bar chart & drawing world maps, binding processed data to visualizations, and creating interaction that will display the routes based on mouse hovering over each of the airline.
 
+**Snapshot:**  
+
 ![name](/images/d3_airline_routes.PNG)
