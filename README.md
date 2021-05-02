@@ -7,6 +7,15 @@
 
 [![name](/images/dashboard_adventureworks.PNG)](https://app.powerbi.com/view?r=eyJrIjoiOGM2YzRlMzEtOGU0YS00MDBlLWEwNDAtOGVjNTAyZTQ3YzA0IiwidCI6ImUzNWZkZDkzLTAxM2QtNDc3MC1hZDNmLTgwZGJmNWUxNmEzNSJ9&pageName=ReportSection "Click Here!")
 
+## US Census
+
+- Analyzed the US Population trends between 1970-2018 using the US Census data. Visualizations include the population growth trends by state and metro areas, along with migration trends within the US. 
+
+**Dashboard:**  
+
+[![name](/images/US_Census_snapshot.PNG)](https://app.powerbi.com/view?r=eyJrIjoiY2FlNTYwNjctZDY3NC00MGRiLTk2MTUtODQwYTQyMTBhOGM1IiwidCI6ImUzNWZkZDkzLTAxM2QtNDc3MC1hZDNmLTgwZGJmNWUxNmEzNSJ9 "Click Here!")
+
+
 # D3.js
 ## Airline Routes
 
